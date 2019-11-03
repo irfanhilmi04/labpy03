@@ -22,6 +22,7 @@ pada latihan 1 kita akan mencari angka terkecil yang kurang dari 0,5
 
 
 ## Latihan 2
+Latihan 2 akan menampilkan bilangan terbesar dari n buah data yang diinputkan
 1. Memperkenalkan variable x integar, kemudian menginput nilainya
 - a = int()
 2. Memperkenalkan variable b dengan nilai 0 
@@ -45,6 +46,7 @@ pada latihan 1 kita akan mencari angka terkecil yang kurang dari 0,5
 ## output
 ![Untitled 2 1](https://user-images.githubusercontent.com/56240221/68084947-26a95500-fe6e-11e9-8b1b-2eb5816b22b8.jpg)
 ## Pemrograman 1
+Pada program ini kita akan mencari keuntungan pada usaha yang telah berjalan selama 8 bulan dengan kondisi yang telah ditentukan
 1. Nilai modal
 - modal = 100000000
 2. Nilai laba 0
