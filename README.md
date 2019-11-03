@@ -11,6 +11,11 @@ pada latihan 1 kita akan mencari angka terkecil yang kurang dari 0,5
 - step = 1
 3. Masukan syntax looping for
 - for i in range(start, stop, step):
+4. Setelah itu kita memasukkan fungsi untuk menampilkan nilai secara acak
+- from random import random
+- a = random()
+5. Terakhir kita tinggal membuat syntax untuk mengeluarkan hasil dari looping tersebut
+- print("Data ke", i, "=>", a)
 ![Untitled1](https://user-images.githubusercontent.com/56240221/68084832-84896d00-fe6d-11e9-8a75-6cd7f6370d6b.jpg)
 ## output
 ![Untitled](https://user-images.githubusercontent.com/56240221/68084875-b1d61b00-fe6d-11e9-9679-cb9ca5dd51b5.jpg)
