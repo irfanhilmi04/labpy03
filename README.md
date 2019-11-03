@@ -16,6 +16,7 @@ pada latihan 1 kita akan mencari angka terkecil yang kurang dari 0,5
 - a = random()
 5. Terakhir kita tinggal membuat syntax untuk mengeluarkan hasil dari looping tersebut
 - print("perulangan ke", i, "=>", a)
+6. Selesai
 ![Untitled1](https://user-images.githubusercontent.com/56240221/68084832-84896d00-fe6d-11e9-8a75-6cd7f6370d6b.jpg)
 ## output
 ![Untitled](https://user-images.githubusercontent.com/56240221/68084875-b1d61b00-fe6d-11e9-9679-cb9ca5dd51b5.jpg)
